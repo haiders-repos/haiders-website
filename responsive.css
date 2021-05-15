@@ -1,0 +1,30 @@
+@media screen and (max-width:500px){
+
+
+
+    .nav ul li {
+        display:block;
+        border-bottom: 1px solid black;
+    }
+}
+
+
+@media screen and (min-width:1000px){
+
+
+    .heading{
+        
+        font-family:Roboto, Arial, Helvetica, sans-serif;
+        font-weight: 800;
+        color:white;
+        background-image: url("code-2400x1600.jpg");
+        background-repeat:no-repeat;
+        background-size: 100%;
+        padding:150px;
+        margin:0;
+}
+
+.img-box{
+    display:none; 
+}
+}
